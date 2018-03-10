@@ -1,6 +1,4 @@
-var a = prompt('Podaj wartość podstawy trójkata', a);
-var h = prompt('Podaj wartość wysokosci trójkata', h);
-var triangleArea = a*h/2;
-
-console.log("Pole trójkata o podstawie a: " + a + " i wysokosci h: " + h + 
-            " jest równe: " + triangleArea);
+var a = 5;
+var h = 3;
+var triangleArea = a * h / 2;
+console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
